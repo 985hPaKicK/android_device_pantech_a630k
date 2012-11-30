@@ -1,5 +1,5 @@
-android_device_lge_lu3700
-=========================
+android_device_pantech_a630k
+============================
 
 CyanogenMod7 device tree for IM-A630K (SKY Izar) - Gingerbread Branch
 
